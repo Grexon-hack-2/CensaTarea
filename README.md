@@ -29,7 +29,7 @@ Para establecer la conexión a la base de datos, debe crear un archivo `App.conf
     <add name="connectionString" connectionString="Data Source=localhost; Initial Catalog=Censa_Clientes; Integrated Security=true" />
   </connectionStrings>
 </configuration>
-
+```
 ## Contacto
 
 Si tiene alguna pregunta o necesita asistencia adicional, no dude en ponerse en contacto con nosotros.
